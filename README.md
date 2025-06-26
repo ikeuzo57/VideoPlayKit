@@ -76,17 +76,3 @@ Open [http://localhost:3000](http://localhost:3000) to see the application.
 ## Contributing
 
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for more information.
-
-## Community
-
-- [Discord](https://discord.gg/fal-ai) - Join our community
-- [GitHub Discussions](https://github.com/fal-ai-community/video-starter-kit/discussions) - For questions and discussions
-- [Twitter](https://twitter.com/fal) - Follow us for updates
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Deployment
-
-The easiest way to deploy your application is through [Vercel](https://vercel.com/new?utm_source=fal-ai&utm_medium=default-template&utm_campaign=video-starter-kit).
