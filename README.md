@@ -72,7 +72,3 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to see the application.
-
-## Contributing
-
-We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for more information.
